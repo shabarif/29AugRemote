@@ -1,2 +1,2 @@
-Creating second file through terminal
-for fetch
+Creating second file  
+at GitHub
